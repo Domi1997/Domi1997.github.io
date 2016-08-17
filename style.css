@@ -61,15 +61,15 @@ img{
     border:2px solid white;
 }
 
-.redacted{
+.redacted{#0000FF	 
     background-color: rgb(215, 206, 199);
     color:  rgb(215, 206, 199);
-}
-
+}#FFA07A	
+#FFA07A	
 .half{
     width: 48%;
     float: left;
-}
+}#E9967A	
 
 .box { 
     width: 250px;
@@ -82,3 +82,5 @@ img{
     padding: 0;
     width: 100%;
 }
+B0C4DE
+#FFE4E1	
